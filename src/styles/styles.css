@@ -1,0 +1,17 @@
+@import url('~normalize.css');
+@import url('./fonts.css');
+
+.container{
+    font-family: 'Roboto';
+    width: 500px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    background: url('../assets/webpack-logo.png') center/cover no-repeat;
+    margin: auto;
+}
